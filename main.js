@@ -8,5 +8,5 @@ function make_shirt(size = "Large", printmessage = "I love Typescript") {
 make_shirt();
 // calling with medium size and default message
 make_shirt("medium");
-// calling a function with different massage
+// calling a function with different message
 make_shirt("small", "hello world");

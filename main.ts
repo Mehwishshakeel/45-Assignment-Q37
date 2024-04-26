@@ -6,5 +6,5 @@ function make_shirt(size:string= "Large" , printmessage:string = "I love Typescr
 make_shirt();
 // calling with medium size and default message
 make_shirt("medium" );
-// calling a function with different massage
+// calling a function with different message
 make_shirt("small","hello world");
